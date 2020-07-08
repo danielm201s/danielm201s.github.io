@@ -30,14 +30,14 @@
     color: #FFF;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 24px;
+      font-size: 12px;
     }
-  }
+  
   .site-description {
     font-size: 20px;
     display: block;
     color: #FFF;
-    margin-top: 10px;
+    margin-top: 15px;
     @media only screen and (min-width:$cut){
       font-size: 40px;
     }
